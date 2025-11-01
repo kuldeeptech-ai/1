@@ -1,0 +1,52 @@
+{
+  "name": "hdlove4u",
+  "short_name": "hdlove4u",
+  "description": "Your ad-free streaming companion",
+  "start_url": "/",
+  "dir": "auto",
+  "lang": "en-US",
+  "orientation": "any",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9wpzNkmnm_1lqeVr6DPHEdcVZRyxzjiTlgIE4ke8c6XbbGLzZ6QVDMIzszZY9dQ4Wok8D3_d3mQu6lT8fkv34cSCST5fTEhmOqdNgykKPikENTr-lXm19fUkX_5aiYokCgEynfGAM__OBC3zzbenzHY85EKnHoTkYiLiQeOHGai3ipukVXf1t7mzVZOF1/s2400/1000125078.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2400"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXD8q49f3qT6Hn6MQ6BSzOFnA2X_-3Lbvf3bcn1BqQeITQMFama6SnnsQZUzP-PWDqIX0Qlz6fgo3mFBspLPTIyh6oVY0zq4QdT9GvVz_WzU3_YmexQa89rBD71wDqJ6W_TLhEI6QGarBEgi5NGBMiL4y0LZjEHb3QJ0yVjYkAxvEC5JI3T8jWzONH6b8m/s2400/1000125077.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2400"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIRJdaO3VGcFz_U7ehhxAnEYLEjNj8GycP19E1X-3ajYlSxxajSjoe5Ce7ew_fVEzaLrdbmJHVLzYppvKRgwtQk5OeCS3J7nCdPxdjUvWciI8VX9t-Q6QdkZYOQChtM8XYtb1fNoI5vE4bmuNtwEeCdizVDXch8jxvOsLn2lFG_Z2KN0X9bF9t2w4v2d_/s2400/1000125074.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2400"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCm9stQcp0ZcA6qSp20D3U1yN8lph0EewDCmMbV0QjfOaq0VdBCeU61Ow51qkeHmggUCJGf6oIz45sCkJNKCb1m4s9FHSmS0Ha_VOiqn0KKAPcdahg_5iy2zH9b3mqj9VS2Un6rAfk2hyphenhyphenRO5GElfw7Q1HSaeuviVx-RHx4EjGbCLmf1K-UcYqx7cjI9AOC/s2400/1000125075.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2400"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwV-FDsAAu5msABX0QrH4h2VDAu4fXJFEOK58M2_lijBjpLlgmbRFi4puphihglQZ8cpYpuB0pKV7cQfYF1GEUOrQZKUjRr1pSTSs5lwv2_cWdw6QKF1myOHpt4L_3Gf4YTRdvYCJASutFNcrNeEAtJif6OjnokvYF93WrfwqjHQnD5ztOZuN1l4HT8fJt/s2400/1000125076.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2400"
+    }
+  ]
+}
